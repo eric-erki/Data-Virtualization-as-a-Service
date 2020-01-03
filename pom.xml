@@ -83,7 +83,7 @@
         <spark.version>2.2.0</spark.version>
         <slick.version>3.2.1</slick.version>
         <jedis.version>2.9.0</jedis.version>
-        <akka-http.version>10.0.1</akka-http.version>
+        <akka-http.version>10.1.11</akka-http.version>
         <json4s-jackson.version>3.2.11</json4s-jackson.version>
         <akka-http-json4s.version>1.11.0</akka-http-json4s.version>
         <cassandra-connector.version>2.0.7</cassandra-connector.version>
